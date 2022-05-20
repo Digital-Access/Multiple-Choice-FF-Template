@@ -16,18 +16,18 @@ const titleScreen = {
 
 const design = {
     btnColour: {
-        start_btn: "#25517B",
-        question_btn: "#172B49",
-        check_result_btn: "#25517B",
-        next_btn: "#25517B",
-        try_again_btn: "#25517B"
-    },
-    btnFontColour: {
         start_btn: "#534092",
         question_btn: "#534092",
         check_result_btn: "#534092",
-        next_btn: "#534092k",
+        next_btn: "#534092",
         try_again_btn: "#534092"
+    },
+    btnFontColour: {
+        start_btn: "white",
+        question_btn: "white",
+        check_result_btn: "white",
+        next_btn: "white",
+        try_again_btn: "white"
     },
     textFontColour: {
         questionFontColour: "white",
